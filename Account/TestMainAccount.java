@@ -1,4 +1,4 @@
-public class TestMain {
+public class TestMainAccount {
     public static void main(String[] args) {
         // Test constructor and toString()
         Account a1 = new Account("A101", "Tan Ah Teck", 88);
