@@ -1,4 +1,4 @@
-public class TestMain {
+public class TestMainRectangle {
     public static void main(String[] args) { // Testar construtores e toString() // Você precisa anexar um 'f' ou 'F' a um literal float
         Rectangle r1 = new Rectangle(1.2f, 3.4f);
         System.out.println(r1);   // toString()
